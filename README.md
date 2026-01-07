@@ -5,8 +5,9 @@ Lenses are made from silicon, which is brittle at cryogenic temperatures and doe
 
 ## Design Constraints:
 - lens placement tolerance: +/- 1 millimeter
-- angular alignment tolerance: +/-
+- angular alignment tolerance: +/- 1 degree
 - center-center distance between lenses: 235 millimeters
+- aluminum will contract 0.48 millimeters
 
 ## Overview of Optics Tubes:
 The optics tubes contain the lens stack that accepts the light from the South Pole Telescope mirror assembly and reimages it onto the focal plane to capture images of the sky. Additional sets of baffling and infrared filters reject stray light from the environment that adds noise to the resultant image. The focal plane is suspended from the back of each optics tube with a network of Titanium (Ti 15-3-3-3; [analysis here](https://github.com/ahryciuk/Modal-Analysis-of-SPT-4-Cryostat-Support-Structures)) struts with an aperture defined by the lyot stop. 
@@ -27,6 +28,8 @@ Compliance is added by fitting Spira helical coils into cut grooves in the retai
 <p align="center">
   <img src="final_CAD_renders./lens_retaining_ring.PNG" width="600">
 </p>
+
+The spira coils are 1.60 +/- 0.079 millimeters in diameter with 0.40 available millimeters of compression. Machining tolerances fix the dowel pins +/- 0.1 millimeters from their designed center placement as well as the optics tube cans. This places the axial placement of the lenses within +/- 0.54 millimeters and the angular alignment within +/- 0.30 degree. 
 
 ## Files:
 - CAD renders: /final_CAD_renders/
