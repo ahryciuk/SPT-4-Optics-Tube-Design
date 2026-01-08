@@ -33,3 +33,7 @@ The spira coils are 1.60 +/- 0.079 millimeters in diameter with 0.40 available m
 
 ## Files:
 - CAD renders: /final_CAD_renders/
+
+## Bibliography:
+All figures from
+- Hryciuk, Alexander. 2025. “The SPT-3G Wide Survey Galaxy Cluster Catalog and the SPT-3G+ Cryostat Design.” University of Chicago. https://doi.org/10.6082/UCHICAGO.15844.
