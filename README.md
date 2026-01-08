@@ -7,7 +7,7 @@ Lenses are made from silicon, which is brittle at cryogenic temperatures and doe
 - lens placement tolerance: +/- 1 millimeter
 - angular alignment tolerance: +/- 1 degree
 - center-center distance between lenses: 235 millimeters
-- aluminum will contract 0.48 millimeters
+- aluminum will contract ~0.5 millimeters in radius
 
 ## Overview of Optics Tubes:
 The optics tubes contain the lens stack that accepts the light from the South Pole Telescope mirror assembly and reimages it onto the focal plane to capture images of the sky. Additional sets of baffling and infrared filters reject stray light from the environment that adds noise to the resultant image. The focal plane is suspended from the back of each optics tube with a network of Titanium (Ti 15-3-3-3; [analysis here](https://github.com/ahryciuk/Modal-Analysis-of-SPT-4-Cryostat-Support-Structures)) struts with an aperture defined by the lyot stop. 
